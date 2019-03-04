@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/DeloitteWeatherApp.Core/obj
+*.suo
+/src/DeloitteWeatherApp.Infrastructure/obj
+/src/DeloitteWeatherApp.WebAPI/obj
+*.lock

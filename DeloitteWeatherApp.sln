@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeloitteWeatherApp.WebAPI", "src\DeloitteWeatherApp.WebAPI\DeloitteWeatherApp.WebAPI.csproj", "{5F0E3C9D-F8C8-4899-90DF-247A4C4F297F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeloitteWeatherApp.Infrastructure", "src\DeloitteWeatherApp.Infrastructure\DeloitteWeatherApp.Infrastructure.csproj", "{277C20E8-F6BE-4292-AF28-BB71D72F546B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeloitteWeatherApp.Core", "src\DeloitteWeatherApp.Core\DeloitteWeatherApp.Core.csproj", "{3C090863-04ED-42DE-8E07-815ED13FB0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F0E3C9D-F8C8-4899-90DF-247A4C4F297F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0E3C9D-F8C8-4899-90DF-247A4C4F297F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0E3C9D-F8C8-4899-90DF-247A4C4F297F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0E3C9D-F8C8-4899-90DF-247A4C4F297F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277C20E8-F6BE-4292-AF28-BB71D72F546B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277C20E8-F6BE-4292-AF28-BB71D72F546B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277C20E8-F6BE-4292-AF28-BB71D72F546B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277C20E8-F6BE-4292-AF28-BB71D72F546B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C090863-04ED-42DE-8E07-815ED13FB0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C090863-04ED-42DE-8E07-815ED13FB0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C090863-04ED-42DE-8E07-815ED13FB0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C090863-04ED-42DE-8E07-815ED13FB0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8133519A-81BF-4CFE-A583-4CB9421E88B6}
+	EndGlobalSection
+EndGlobal
